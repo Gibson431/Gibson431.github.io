@@ -11,7 +11,7 @@ main = [
 ]
 
 [params]
-showToc = true
+showToc = false
 TocOpen = false
 ShowBreadCrumbs = true
 ShowCopyCodeButtons = true
