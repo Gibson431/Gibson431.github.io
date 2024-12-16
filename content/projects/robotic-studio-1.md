@@ -5,3 +5,5 @@ draft: false
 cover:
     image : "projects/robotic-studio-1/cover.png"
 ---
+
+{{< youtube Gs72iLtByLs >}}
