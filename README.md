@@ -6,9 +6,7 @@ It uses the [PaperMod](https://github.com/adityatelange/hugo-PaperMod) theme for
 
 ## Deployment
 
-The site is deployed on Vercel, details about deploying a Hugo site can be found below.
-
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/vercel/vercel/tree/main/examples/hugo&template=hugo)
+The site is deployed on GitHub Pages using the default hugo GitHub Actions.
 
 ### Usage
 
@@ -16,10 +14,4 @@ To deploy this site locally for testing, you can use the [Hugo CLI](https://gohu
 
 ```shell
 hugo server
-```
-
-or the [Vercel dev CLI](https://vercel.com/docs/cli/dev)
-
-```shell
-vercel dev
 ```
