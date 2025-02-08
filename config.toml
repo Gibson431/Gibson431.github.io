@@ -34,7 +34,7 @@ title = "Tim Gibson"
 subtitle = "Mechanical and Mechatronic Engineer"
 buttons = [
   { name = "Resume", url = "https://docs.google.com/document/d/10i1PbkDcsTfmgpOHmHgqI20FMIqrVqjj/edit?usp=sharing&ouid=114057340355433321552&rtpof=true&sd=true" },
-  { name = "This Page", url = "https://github.com/Gibson431/hugo-portfolio/tree/main" },
+  { name = "This Page", url = "https://github.com/Gibson431/gibson431.github.io" },
 ]
 imageUrl = "/home/profile.jpeg"
 imageWidth = 220
